@@ -44,7 +44,7 @@ if (isset($_GET['edit'])){
 	}
 }
 
-if (isset(_POST['update'])){
+if (isset($_POST['update'])){
 	$id = $_POST['id'];
 	$name = $_POST['name'];
 	$location = $_POST['location'];

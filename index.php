@@ -81,7 +81,7 @@
 			<button type="submit" class="btn btn-info" name="update">Update</button>	
 		<?php else: ?>;
 			<button type="submit" class="btn btn-primary" name="save">Save</button>
-		<php endif; ?> 	
+		<?php endif; ?> 	
 		</div>
 	</form>
 	</div>
